@@ -1,0 +1,42 @@
+There are about 5000 zebra sharks remaining in the world.
+There are about 120000 whale sharks remaining in the world.
+There are about 50000 mako sharks remaining in the world.
+There are about 200000 hammerhead sharks remaining in the world.
+There are about 43000 bull sharks remaining in the world.
+There are about 30000 greenland sharks remaining in the world.
+There are about 20000 basking sharks remaining in the world.
+There are about 90000 nurse sharks remaining in the world.
+There are about 60000 tiger sharks remaining in the world.
+There are about 25000 lemon sharks remaining in the world.
+There are about 80000 reef sharks remaining in the world.
+There are about 3500 great white sharks remaining in the world.
+There are about 20000000 blue sharks remaining in the world.
+There are about 15000 oceanic whitetip sharks remaining in the world.
+There are about 40000 thresher sharks remaining in the world.
+There are about 140000 porbeagle sharks remaining in the world.
+There are about 120000 silky sharks remaining in the world.
+There are about 180000 blacktip sharks remaining in the world.
+There are about 100000 sandbar sharks remaining in the world.
+There are about 70000 spinner sharks remaining in the world.
+There are about 55000 oceanic blacktip sharks remaining in the world.
+There are about 35000 dusky sharks remaining in the world.
+There are about 28000 copper sharks remaining in the world.
+There are about 45000 smooth hammerhead sharks remaining in the world.
+There are about 18000 scalloped hammerhead sharks remaining in the world.
+There are about 12000 manta rays remaining in the world.
+There are about 22000 bonnethead sharks remaining in the world.
+There are about 16000 spiny dogfish sharks remaining in the world.
+There are about 9000 sevengill sharks remaining in the world.
+There are about 14000 swell sharks remaining in the world.
+There are about 11000 horn sharks remaining in the world.
+There are about 8500 frilled sharks remaining in the world.
+There are about 6000 goblin sharks remaining in the world.
+There are about 24000 smoothhound sharks remaining in the world.
+There are about 19000 Caribbean reef sharks remaining in the world.
+There are about 32000 whitetip reef sharks remaining in the world.
+There are about 27000 gray reef sharks remaining in the world.
+
+Research Vessel Notes:
+        * Medical kit: Locker 19
+        * File Archives: Locker 21
+        * Dive computers: Locker 22

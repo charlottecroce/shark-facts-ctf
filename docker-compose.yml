@@ -1,0 +1,10 @@
+services:
+  shark-ctf:
+    build: .
+    image: shark-ctf
+    container_name: shark-ctf
+    restart: unless-stopped
+    ports:
+      - "80:80"                     # website
+      - "21:21"                     # FTP control
+      - "30000-30009:30000-30009"   # FTP passive data
