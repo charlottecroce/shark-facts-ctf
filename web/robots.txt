@@ -1,2 +1,3 @@
 User-agent: *
+Disallow: /bull_shark.html/
 Disallow: /super_secret_admin_page/

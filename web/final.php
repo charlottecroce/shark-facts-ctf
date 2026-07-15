@@ -7,6 +7,7 @@
  *   - Validation is 100% server-side.
  *   - Flag 8 is AES-256-CBC ciphertext whose key is derived from the 7 flags.
  *   - If any flag is wrong, decryption fails and the result is rejected by the LCCTF{...} format check.
+ *   - Flag 8 is REQUIRED to get Flag 9. No workarounds possible
  */
 
 $cfg = @include '/var/www/secret/flag8.enc.php';

@@ -45,7 +45,7 @@ if ($raw !== '') {
         </div>
       <?php endif; ?>
 
-      <a class="back" href="/">&larr; Back to the facts</a>
+      <a class="back" href="/">&larr; Back</a>
     </div>
   </div>
 
