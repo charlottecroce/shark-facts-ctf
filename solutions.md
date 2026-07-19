@@ -1,7 +1,7 @@
 # Solutions (author eyes only)
 
 Replace TARGET with the box IP. Where a step says "in the search box," that's the species lookup on population.php (Flag 4+) or the fossil search on the depths page
-(Flag 9). Both drop your text straight into a command, so ending a payload with # comments out the trailing part the page tacks on.
+(Flag 9).
 
 ## Flag 1 - page source
 
@@ -135,8 +135,8 @@ The key is Flag 8. To find this, there's a hint in encrypt_megalodon.py to look 
 
 Now, also on your own machine: decode the blob to the raw sealed bytes, then decrypt using flag8 as the key.
 
-    echo 'HcobKu...nyw0=' | base64 -d > sealed.bin
-    python3 encrypt_megalodon.py dec -k 'LCCTF{3L45M0BR4NCH11}' -i sealed.bin
+    echo 'HcobKu...nyw0=' | base64 -d > last_sighting.bin
+    python3 encrypt_megalodon.py dec -k 'LCCTF{3L45M0BR4NCH11}' -i last_sighting.bin
 
     -> LCCTF{0T0D5M3g4L0D0N}
 
