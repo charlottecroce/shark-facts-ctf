@@ -34,6 +34,6 @@ docker run -d --name shark-ctf \
 
 ---
 
-A full step-by-step is in [`SOLUTIONS.md`](SOLUTIONS.md).
+A full step-by-step is in [`solutions.md`](solutions.md).
 
 ---
